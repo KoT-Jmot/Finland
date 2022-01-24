@@ -1,0 +1,84 @@
+.background
+{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 90%;
+}
+.title
+{
+    width: 100%;
+    color: rgb(32, 163, 214);
+    text-shadow: 10px 10px 20px black, 0 0 1em red;
+    font-size:100px;
+    text-align: center;
+}
+.button
+{
+
+    color: seashell;
+    text-align: center;
+    vertical-align: middle;
+    font-size:50px;
+    margin-left: 15%;
+}
+.text
+{
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: seashell;
+    font-size:26px;
+}
+body
+{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("1.jpg");  
+    background-repeat: repeat;
+    background-size: 100%;
+    padding: 0px;
+    margin: 0px;
+    
+}
+div
+{
+    display:inline-block;
+}
+a:visited
+{
+    color:seashell;
+}
+a:active
+{
+    color:rgb(21, 77, 166);   
+}
+img
+{
+    border-radius: 5%;
+    margin-left: 5%; 
+    width: 28%;
+    height: 250px;
+}
+.soderj
+{  
+    margin-top: 5%;
+    margin-right: 4%;
+    width: 96%;
+}
+.leftcol{
+    width: 70%;
+}
+.historiImg
+{
+    margin-left: 0%; 
+    width: 100%;
+
+}
+.other
+{
+    padding-left: 3%;
+    font-size: 24px ;
+}
+.mainIMG
+{
+    height: 200px;
+    width: 100%; 
+}
